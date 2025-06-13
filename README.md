@@ -1,4 +1,5 @@
 # Gas Leak Detector with Alarm
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
